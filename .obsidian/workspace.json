@@ -11,10 +11,14 @@
             "id": "47e02c490d8f871c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Team-1-Workflow/Templates/Example.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Example"
             }
           }
         ]
@@ -164,9 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8126edf30f24e5f3",
+  "active": "47e02c490d8f871c",
   "lastOpenFiles": [
     "Team-1-Workflow/Templates/Example.md",
+    "Team-1-Workflow/Templates/Example.md",
+    "Untitled",
     "Team-1-Workflow/Templates/Example",
     "Team-1-Workflow/Templates",
     "Team-1-Workflow/Templates/Example Templates.md",
