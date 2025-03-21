@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Team-1-Workflow/Tasks/2025-03-21_library-summary.md",
+                "file": "Team-1-Workflow/Reports/2025-03-21_library-summary 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-21_library-summary"
+              "title": "2025-03-21_library-summary 1"
             }
           }
         ]
@@ -183,8 +183,10 @@
   },
   "active": "d4cc3c06b2874aca",
   "lastOpenFiles": [
-    "Team-1-Workflow/Reports/2025-03-21_library-summary 1.md",
     "Team-1-Workflow/Tasks/2025-03-21_library-summary.md",
+    "Team-1-Workflow/Tasks/2025-03-21_library-summary 4.md",
+    "Team-1-Workflow/Tasks/2025-03-21_library-summary 3.md",
+    "Team-1-Workflow/Reports/2025-03-21_library-summary 1.md",
     "Team-1-Workflow/Tasks/2025-03-21_library-summary 2.md",
     "Team-1-Workflow/Templates/Example.md",
     "Team-1-Workflow/Tasks/Team-1- Kanban.md",
