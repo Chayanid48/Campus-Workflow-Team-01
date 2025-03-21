@@ -11,21 +11,14 @@
             "id": "d4cc3c06b2874aca",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Team-1-Workflow/Tasks/Team-1- Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Team-1-Workflow/Tasks/2025-03-21_library-summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Team-1- Kanban"
+              "icon": "lucide-file",
+              "title": "2025-03-21_library-summary"
             }
           }
         ]
@@ -188,19 +181,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "339e450c7bb36f91",
+  "active": "d4cc3c06b2874aca",
   "lastOpenFiles": [
+    "Team-1-Workflow/Reports/2025-03-21_library-summary 1.md",
     "Team-1-Workflow/Tasks/2025-03-21_library-summary.md",
     "Team-1-Workflow/Tasks/2025-03-21_library-summary 2.md",
-    "Team-1-Workflow/Reports/Book1.md",
-    "Team-1-Workflow/Reports/Book3.md",
-    "Team-1-Workflow/Reports/Book2.md",
     "Team-1-Workflow/Templates/Example.md",
-    "README.md",
     "Team-1-Workflow/Tasks/Team-1- Kanban.md",
-    "Team-1-Workflow/Tasks/name.md",
     "Team-1-Workflow/Reports/Book5.md",
     "Team-1-Workflow/Reports/Book4.md",
+    "Team-1-Workflow/Reports/Book3.md",
+    "Team-1-Workflow/Reports/Book2.md",
+    "README.md",
+    "Team-1-Workflow/Tasks/name.md",
     "Team-1-Workflow/Templates",
     "Untitled",
     "Team-1-Workflow/Templates/Example",
